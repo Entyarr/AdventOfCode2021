@@ -1,4 +1,4 @@
-f = open("input.txt", 'r')
+f = open("input2.txt", 'r')
 prevDepth = int(f.readline())
 count = 0
 print(prevDepth,"Nothing to measure")
